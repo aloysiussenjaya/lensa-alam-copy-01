@@ -120,8 +120,8 @@ menus:
     title: ''
     weight: ''
   main:
-    title: Home
-    weight: 1
+    title: ''
+    weight: ''
 template: home
 ---
 
