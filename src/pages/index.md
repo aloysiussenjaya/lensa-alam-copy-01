@@ -8,7 +8,7 @@ sections:
     content: >-
       This section can contain a subtitle or tagline. The recommended length is
       one to three sentences, but can be changed as you prefer.
-    image: images/5.jpg
+    image: /images/mountain.png
     section_id: hero
     title: Digital News Media
     type: heroblock
