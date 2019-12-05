@@ -29,6 +29,9 @@ sections:
           - label: View Posts
             url: blog/index.html
         content: >-
+          ![Pantai Lombok Indonesia](/images/lombokbeach.jpg "Pantai Indonesia")
+
+
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
         title: Beach
@@ -36,11 +39,16 @@ sections:
           - label: View Post
             url: /style-guide.html
         content: >-
+          ![Hutan Pinus Mangunan Indonesia](/images/hutanpinusmangunan.jpg
+          "Hutan Indonesia")
+
+
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
           a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
           tincidunt ut tellus. Vivamus rhoncus mattis varius.
         title: Forest
-    section_id: features
+    section_id: category
+    title: Category
     type: featuresblock
   - actions:
       - label: View Demo
@@ -49,9 +57,13 @@ sections:
         url: /docs/getting-started/index.html
     component: ContentBlock
     content: >-
+      ```
+
       Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
       cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
       consectetur lobortis.
+
+      ```
     image: images/10.jpg
     section_id: text-img
     title: A Section With An Image
@@ -79,8 +91,8 @@ sections:
     title: Sample Layouts
     type: featuresblock
   - actions:
-      - label: Get Started
-        url: /docs/getting-started/installation.html
+      - label: Follow Us
+        url: 'https://www.instagram.com/'
     component: CtaBlock
     section_id: cta
     subtitle: This is an optional description for the call to action block.
@@ -98,6 +110,9 @@ sections:
     title: A Section Without Image
     type: contentblock
 menus:
+  layouts:
+    title: About
+    weight: 2
   main:
     title: Home
     weight: 1
