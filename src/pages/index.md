@@ -1,9 +1,7 @@
 ---
 title: Home
 sections:
-  - actions:
-      - label: Get Started
-        url: docs/index.html
+  - actions: []
     component: HeroBlock
     content: >-
       This section can contain a subtitle or tagline. The recommended length is
@@ -50,45 +48,53 @@ sections:
     section_id: category
     title: Category
     type: featuresblock
-  - actions:
-      - label: View Demo
-        url: /docs/getting-started/index.html
-      - label: Get Started
-        url: /docs/getting-started/index.html
-    component: ContentBlock
-    content: >-
-      ```
-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
-
-      ```
-    image: images/10.jpg
-    section_id: text-img
-    title: A Section With An Image
-    type: contentblock
   - component: FeaturesBlock
     featureslist:
       - actions:
-          - label: Learn More
+          - label: View Post
+        content: >-
+          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
+          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
+          tincidunt ut tellus. Vivamus rhoncus mattis varius.
+        title: post 1
+      - actions:
+          - label: View Post
+        content: >-
+          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
+          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
+          tincidunt ut tellus. Vivamus rhoncus mattis varius.
+        title: post 2
+      - actions:
+          - label: View Post
+        content: >-
+          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
+          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
+          tincidunt ut tellus. Vivamus rhoncus mattis varius.
+        title: post 3
+    section_id: lastest-post
+    title: Lastest Post
+    type: featuresblock
+  - component: FeaturesBlock
+    featureslist:
+      - actions:
+          - label: Contact Us
             url: /overview.html
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
           fringilla, fringilla tortor at, pulvinar orci.
-        title: Overview
+        title: Contact Us
       - actions:
-          - label: Learn More
+          - label: Follow Us
             url: /showcase.html
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
           a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
           tincidunt ut tellus. Vivamus rhoncus mattis varius.
-        title: Showcase
+        title: Follow Us
     section_id: features-two-col
     subtitle: An optional subtitle of the section
-    title: Sample Layouts
+    title: Get in Touch
     type: featuresblock
   - actions:
       - label: Follow Us
@@ -111,8 +117,8 @@ sections:
     type: contentblock
 menus:
   layouts:
-    title: About
-    weight: 2
+    title: ''
+    weight: ''
   main:
     title: Home
     weight: 1
