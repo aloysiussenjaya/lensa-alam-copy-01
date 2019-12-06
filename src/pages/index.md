@@ -10,6 +10,22 @@ sections:
     section_id: hero
     title: Digital News Media
     type: heroblock
+  - actions:
+      - label: Get Started
+        url: /docs/getting-started/installation.html
+    component: ContentBlock
+    content: >-
+      <iframe src="https://www.youtube.com/watch?v=ijQ8xk-JYNk" width="640"
+      height="338" frameborder="0" allow="autoplay; fullscreen"
+      allowfullscreen></iframe>
+
+
+      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
+      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
+      consectetur lobortis.
+    section_id: text-no-img
+    title: 'Wisata Indonesia '
+    type: contentblock
   - component: FeaturesBlock
     featureslist:
       - actions:
@@ -104,17 +120,6 @@ sections:
     subtitle: This is an optional description for the call to action block.
     title: The Title of The Call to Action Block
     type: ctablock
-  - actions:
-      - label: Get Started
-        url: /docs/getting-started/installation.html
-    component: ContentBlock
-    content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
-    section_id: text-no-img
-    title: A Section Without Image
-    type: contentblock
 menus:
   layouts:
     title: ''
