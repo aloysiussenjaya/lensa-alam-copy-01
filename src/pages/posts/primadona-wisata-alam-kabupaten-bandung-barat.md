@@ -3,7 +3,10 @@ title: Primadona Wisata Alam Kabupaten Bandung Barat
 subtitle: ''
 date: 2019-12-05T09:24:46.233Z
 thumb_img_path: /images/kab-bandung-barat.png
-excerpt: Read More
+excerpt: >-
+  Kabupaten Bandung Barat memang menjadi primadona wisata alam di Jawa Barat.
+  Baik air terjun, sungai, pegunungan, bahkan mata air alaminya menjadi daya
+  tarik bagi traveller.
 template: post
 ---
 # Primadona Wisata Alam Kabupaten Bandung Barat
