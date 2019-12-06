@@ -3,6 +3,7 @@ title: Primadona Wisata Alam Kabupaten Bandung Barat
 subtitle: ''
 date: 2019-12-05T09:24:46.233Z
 thumb_img_path: /images/kab-bandung-barat.png
+excerpt: Read More
 template: post
 ---
 # Primadona Wisata Alam Kabupaten Bandung Barat
