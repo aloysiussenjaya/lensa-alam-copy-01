@@ -15,8 +15,8 @@ sections:
         url: /docs/getting-started/installation.html
     component: ContentBlock
     content: >-
-      <iframe src="https://www.youtube.com/embed/watch?v=ijQ8xk-JYNk"
-      width="640" height="338" frameborder="0" allow="autoplay; fullscreen"
+      <iframe src="https://www.youtube.com/embed/ijQ8xk-JYNk" width="640"
+      height="338" frameborder="0" allow="autoplay; fullscreen"
       allowfullscreen></iframe>
 
 
